@@ -12,8 +12,8 @@ Tecnologias:
 - GIT + GITHUB
 
 Grupo:
-Ranielle
-Bruna
-Denise
-Maria
-Thiago
+Ranielle,
+Bruna,
+Denise,
+Maria,
+Thiago.
